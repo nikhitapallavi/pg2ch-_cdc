@@ -13,3 +13,5 @@ zookeeper-data/
 
 libs/
 *.jar
+libs/
+*.jar
